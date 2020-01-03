@@ -1,6 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 https://gallant-snyder-cd55f5.netlify.com/
+https://bootswatch.com/
+https://pixabay.com/api/docs/#
 
 
 ## Available Scripts
